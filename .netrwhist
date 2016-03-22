@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/crytting/Vim'
+let g:netrw_dirhist_2='/Users/crytting'
+let g:netrw_dirhist_3='/Users/crytting/Vim'
+let g:netrw_dirhist_4='/Users/crytting/.vim'
+let g:netrw_dirhist_5='/Users/crytting'
+let g:netrw_dirhist_6='/Users/crytting/Vim'
