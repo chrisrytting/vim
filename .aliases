@@ -1,0 +1,16 @@
+alias vipython="screen -S ipython ipython"
+alias vim="mvim -v"
+alias julia="/Applications/Julia-0.4.6.app/Contents/Resources/julia/bin/julia"
+alias pkg="cd /Users/chrisrytting1/.julia/v0.4/DSGE/src/estimate"
+alias sch="cd /Users/chrisrytting1/.julia/v0.4/DSGEModels/src/schorf"
+function mygrep { grep -r $1 . --color --line-number; }
+function mygreps { grep -r "$1" . --color --line-number; }
+
+#Change directories
+alias work="cd ~/vim/work"
+alias school="cd ~/vim/school"
+alias ccs="cd ~/vim/work/nn/ccs"
+alias ccs="cd ~/vim/work/nn/ccs"
+
+#Python stuff
+alias jn='jupyter notebook'
