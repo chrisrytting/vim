@@ -9,8 +9,7 @@ function mygreps { grep -r "$1" . --color --line-number; }
 #Change directories
 alias work="cd ~/vim/work"
 alias school="cd ~/vim/school"
-alias ccs="cd ~/vim/work/nn/ccs"
-alias ccs="cd ~/vim/work/nn/ccs"
+alias ccs="cd ~/vim/work/SO/ccs"
 
 #Python stuff
 alias jn='jupyter notebook'
